@@ -8,6 +8,11 @@ public class EligibleForVoting {
 
         if(age>=18){
             System.out.print("Eligible for Voting");
+         }
+        else{
+            System.out.println("Not eligible for voting");
+        }
+
         }
     }
-}
+
