@@ -9,4 +9,4 @@ public class DivisibleByFiveAndSeven {
         }
     }
 }
-//forloops
+//divisible by  5 and 7 using for loop

@@ -10,4 +10,4 @@ public class PrintOnetoHundredButSkipMultiplesofThree {
         }
     }
 }
-//forloops
+//print one to hundred skip multiple of three using for loop

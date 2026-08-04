@@ -12,4 +12,4 @@ public class DivisibleByFour {
         System.out.println("count = " +count);
     }
 }
-//forloops
+//using for lopp divisible by 4

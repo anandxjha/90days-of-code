@@ -14,3 +14,4 @@ public class SumNumberFromOnetoN {
         System.out.println(sum);
     }
 }
+//sum of number from one to n using for loop

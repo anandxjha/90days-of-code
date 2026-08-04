@@ -14,3 +14,4 @@ public class Factorial {
         System.out.println(mult);
     }
 }
+//factorial using for loop

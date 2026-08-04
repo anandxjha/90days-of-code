@@ -17,3 +17,4 @@ public class SumofEvenNumbers {
         System.out.println(sum);
     }
 }
+//sum of even number using for loop

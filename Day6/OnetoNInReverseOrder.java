@@ -11,4 +11,4 @@ public class OnetoNInReverseOrder {
         }
     }
 }
-//forloops
+//one to n in reverse order using for loop

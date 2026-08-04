@@ -16,3 +16,4 @@ public class CountDigitsInAnInteger {
         System.out.println(count);
     }
 }
+ //count digit in integer using for loop
