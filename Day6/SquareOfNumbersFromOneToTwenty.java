@@ -10,4 +10,4 @@ public class SquareOfNumbersFromOneToTwenty {
         }
     }
 }
-//square of number using for loop
+//square of number using for loops
