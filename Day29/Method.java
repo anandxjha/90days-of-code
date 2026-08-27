@@ -7,6 +7,6 @@ public class Method {
 
 
     static void main() {
-        name(10,20);
+        name(10,20); //jb hm method ko call krte hai to yaha 10,20  actual value hai jinhe argument kete hai
     }
 }
