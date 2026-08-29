@@ -1,11 +1,15 @@
 package Day25;
 
+import java.util.Scanner;
+
 public class SolidRectangle {
     static void main() {
-        int n=8;
+        Scanner sc=new Scanner(System.in);
+        int row=sc.nextInt();
+        int col=sc.nextInt();
 
-        for(int i=1;i<n;i++){
-            for(int j=1;j<=n;j++){
+        for(int i=1;i<row;i++){
+            for(int j=1;j<=col;j++){
                 System.out.print("* ");
             }
             System.out.println();
